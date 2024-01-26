@@ -106,6 +106,18 @@ export default function Home() {
 
             <li>
               <a
+                href="https://minesweeper.theodoretliu.com"
+                target="_blank"
+                className="underline text-blue-800"
+              >
+                Minesweeper
+              </a>{" "}
+              &mdash; simple reimplementation of the classic game (written in
+              Svelte)
+            </li>
+
+            <li>
+              <a
                 href="https://gusto-equity.theodoretliu.com"
                 target="_blank"
                 className="underline text-blue-800"
