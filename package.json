@@ -12,7 +12,6 @@
     "@astrojs/check": "^0.5.10",
     "@astrojs/tailwind": "^5.1.0",
     "astro": "^4.6.3",
-    "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18"
   },
